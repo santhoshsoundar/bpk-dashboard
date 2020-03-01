@@ -23,6 +23,7 @@
     "react-dom": "^16.8.3",
     "react-hot-loader": "^4.7.1",
     "resize-observer-polyfill": "^1.5.1",
+    "serialize-javascript": "^3.0.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.5",
     "webpack-dev-server": "^3.2.0",
